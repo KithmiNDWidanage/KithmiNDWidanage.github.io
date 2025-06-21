@@ -34,10 +34,10 @@
   "education": [
     {
       "institution": "University of Sussex, UK",
-      "area": "Ph.D in Engineering (Robot-environment Interactions",
+      "area": "Ph.D in Engineering (Topic: Robot-environment Interactions)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2026",
+      "endDate": "2025 August (expected)",
       "gpa": null,
       "courses": []
     },
@@ -47,12 +47,12 @@
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
-      "gpa": 3.51,
+      "gpa": null,
       "courses": []
     }
   ],
-  "skills": ["Programming (MATLAB, C++, Python, Java), ROS, FEA (Ansys), CAD (SolidWorks), Graphical Programming (LabView), Control system implementation (Arduino systems, Kionva Gen3 robot, HRX-1 rehabilitation robot)"],
-  "languages": ["English, Sinhala"],
+  "skills": "Programming (MATLAB, C++, Python, Java), ROS, FEA (Ansys), CAD (SolidWorks), Graphical Programming (LabView), Control system implementation (Arduino systems, Kionva Gen3 robot, HRX-1 rehabilitation robot)",
+  "languages": "English, Sinhala",
   "interests": ["Robot-environment Interactions, Robot Learning, Assistive Devices, Medical Robotics, Bio-inspired Systems"],
   "references": [],
   "publications": [
@@ -72,7 +72,7 @@
     },
     {
       "name": "Exoskeletons for Manual Handling: A Scoping Review",
-      "publisher": "Journal 1",
+      "publisher": "IEEE Access",
       "releaseDate": "2023-10-11",
       "website": "https://ieeexplore.ieee.org/abstract/document/10281365",
       "summary": "A review article on manual handling exoskeletons."
