@@ -9,5 +9,5 @@ redirect_from:
 Non-repetitive-path Iterative Learning Control
 *
   <video width="320" height="240" controls loop="" muted="" autoplay="">
-  <source src="videos/NRP-ILC_Demo.mp4">
+  <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/NRP-ILC_Demo.mp4">
 </video>
