@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /research
 ---
-* Non-repetitive-path Iterative Learning Control
-  <video width="320" height="240" controls>
-  <source src="NRP-ILC-Demo.mp4" type="video/mp4">
+Non-repetitive-path Iterative Learning Control
+*
+  <video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/blob/master/videos/NRP-ILC_Demo.mp4">
 </video>
