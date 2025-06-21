@@ -1,97 +1,102 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kithmi N. D. Widanage",
+    "email": "k.dickwella-widange@sussex.ac.uk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://KithmiNDWidanage.github.io",
+    "summary": "A doctoral researcher on robot control at the University of Sussex, United Kingdom.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "London",
+      "countryCode": "UK",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=85z2lKUAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0002-1933-9720"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/KithmiNDWidanage"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Sussex, UK",
+      "area": "Ph.D in Engineering (Robot-environment Interactions",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2026",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Moratuwa, Sri Lanka",
+      "area": "B.Sc. Engineering (Hons) in Mechanical Engineering",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "gpa": 3.51,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": ["Programming (MATLAB, C++, Python, Java), ROS, FEA (Ansys), CAD (SolidWorks), Graphical Programming (LabView), Control system implementation (Arduino systems, Kionva Gen3 robot, HRX-1 rehabilitation robot)"],
+  "languages": ["English, Sinhala"],
+  "interests": ["Robot-environment Interactions, Robot Learning, Assistive Devices, Medical Robotics, Bio-inspired Systems"],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Non-repetitive-path Iterative Learning and Control for Human-guided Robotic Operations on Unknown Surfaces",
+      "publisher": "IEEE Transactions in Robotics",
+      "releaseDate": "(accepted)",
+      "website": "",
+      "summary": "This paper provides a novel iterative learning and control algorithm for contact-rich tasks that does not require the repetition of exploration regions to learn environmental impedance and perform force control normal to the surface."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Developments in circular external fixators: A review",
+      "publisher": "Injury",
+      "releaseDate": "2023-12-01",
+      "website": "https://www.sciencedirect.com/science/article/pii/S0020138323008744",
+      "summary": "A review article on the design aspects of circular external fixators, a type of orthopaedic device primarily used for stabilizing complex fractures."
     },
     {
-      "name": "Paper Title Number 3",
+      "name": "Exoskeletons for Manual Handling: A Scoping Review",
       "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "releaseDate": "2023-10-11",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10281365",
+      "summary": "A review article on manual handling exoskeletons."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Human-Robot Collaboration for Unknown Flexible Surface Exploration and Treatment Based on Mesh Iterative Learning Control",
+      "publisher": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "2023-09-28",
+      "website": "https://ieeexplore.ieee.org/document/10341612",
+      "summary": "A conference paper on a novel iterative learning controller used for performing contact-based operations on unknown surfaces."
+    },
+    {
+      "name": "Multi-Objective Optimization-Based Assist-as-Needed Controller for Improved Quality of Assistance in Rehabilitation Robotics",
+      "publisher": "2023 International Conference on Rehabilitation Robotics (ICORR)",
+      "releaseDate": "2023-09-28",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10304734",
+      "summary": "A conference paper on a multi-objective optimization-based controller for a wrist-rehabilitation robot used for providing safe rehabilitation motions while maintaining the quality of assistance."
+    },
+    {
+      "name": "A Hybrid Powering Mechanism for a Transtibial Robotic Prosthesis",
+      "publisher": "2019 Moratuwa Engineering Research Conference",
+      "releaseDate": "2019-07-05",
+      "website": "https://ieeexplore.ieee.org/document/8818842",
+      "summary": "A conference paper on a multi-objective optimization-based controller for a wrist-rehabilitation robot used for providing safe rehabilitation motions while maintaining the quality of assistance."
     }
   ],
   "presentations": [
