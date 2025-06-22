@@ -7,22 +7,22 @@ redirect_from:
   - /research
 ---
 
-# Ongoing Projects:
+## Ongoing Projects:
 
-## Human Arm Impedance Learning and Transfer during Bilateral Robotic Manipulation
+### Human Arm Impedance Learning and Transfer during Bilateral Robotic Manipulation
 *University of Sussex*
 
 This work is focused on a teleoperated contact-rich robotic manipulation scenario at an unknown environment. In this ongoing research work, a tele-impedance framework is designed for learning and transferring the human hand’s stiffness to a teleoperated robot. For this work, I am proposing a hypothesis whereby the human hand’s stiffness in the Cartesian space when interacting with an environment depends on the contact force error and the stiffness of the environment. I am currently developing a ROS-based teleoperation interface between the Kinova Gen3 7DOF robotic manipulator and the Geomagic TouchX haptic device to test this hypothesis. I plan to develop a human impedance learning algorithm based on this hypothesis, which can be used in online impedance learning and transfer in teleoperation scenarios.
 
-## Characterisation of a mechanical Continuous Variable Transmission system (CVT) used as a collision-safe element of a manipulator joint
+### Characterisation of a mechanical Continuous Variable Transmission system (CVT) used as a collision-safe element of a manipulator joint
 *University of Sussex*
 
 As a continuation of one of the EPSRC projects (see Design of Robotic Manipulators for Nuclear Decommissioning below), we are carrying out a CVT characterisation on a test bench to evaluate the collision-safe capabilities. We carried out initial tests using a combination of an Arduino Portenta board and Maxon motor controllers as DAQs and Controllers to assess the variation in speed transmission ratio. Currently, we are updating the setup to replace Arduino Portenta with an NI DAQ system. The test-bench controllers currently incorporate the input data from motor encoders, a torque sensor, and magnetic encoders to record output shaft velocity. Output signals include motor output, brake control signals, and pneumatic pressure regulators.
 
 
-# Previous Projects:
+## Previous Projects:
 
-## Force-dependent Variable Impedance Control (FVIC) 
+### Force-dependent Variable Impedance Control (FVIC) 
 *University of Sussex - 2025*
 
 In this work, I developed a position-based variable impedance controller that updates the impedance parameters (stiffness and damping) of a robot based on contact force. When learning unknown environments through contact-rich manipulation, unsafe levels of contact forces is a common problem. The current approaches for this include variable impedance methods with virtual energy tanks to ensure stability. However such methods compromise the desired contact dynamics. In this novel VIC method, the stiffness and damping are updated as functions of contact force while maintaining stability. The simulations in MATLAB environment and experiments performed with Kinova Gen3 robot integrated with two external 6-axis force/torque sensors using the Kinova Kortex API based on C++ show that this method is successful in maintaining safe interactions in unknown environments and ensuring correct position tracking in known environments. 
@@ -33,7 +33,7 @@ This work has been submitted to IEEE Control System Letters (Special section on:
 <!-- ![FVIC Simulations](https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg "FVIC Simulations") -->
 
 
-## Non-repetitive-path Iterative Learning Control (NRP-ILC)
+### Non-repetitive-path Iterative Learning Control (NRP-ILC)
 *University of Sussex - 2024*
 
 This is a learning and control method stemming from iterative learning control based on the absolute x-y position of a surface. This is an extension of my previous work on MILC. In this work, a collaborative manipulator robot (cobot) is programmed to traverse repetitively through virtual sub-regions of an unknown surface while trying to achieve a desired contact force amidst occasional interruption from the human operator. When the robot visits each sub-region during different iterations, the previous information collected at each sub-region will be used to update the reference position and impedance information of the surface for the next iteration. In the previous work (MILC), the robot needed to visit all the sub-regions during each iteration to ensure proper learning and control. However, in this NRP-ILC, the robot can use any random path while arbitrarily missing some sub-regions yet still achieving the required control performance. Through this work, I further established the NRP-ILC method as a framework which can be used for achieving multiple control objectives such as force tracking, orientation adaptation, and impedance learning. I validated this framework via simulations on MATLAB. I also tested it on a Kinova Gen3 robot integrated with two external 6-axis force/torque sensors using the Kinova Kortex API based on C++. This work has been accepted for publication by IEEE Transactions on Robotics.
@@ -44,7 +44,7 @@ This work has been accepted by IEEE Transactions on Robotics for publication.
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/NRP-ILC_Demo.mp4">
 </video>
 
-## Design of Robotic Manipulators for Nuclear Decommissioning
+### Design of Robotic Manipulators for Nuclear Decommissioning
 *University of Sussex, University of Tokyo - 2022-2024*
 
 This was a part of the EPSRC project *[A Nuclear Decommissioning Manipulator with Novel Variable Impedance Actuator](https://ukerc.rl.ac.uk/cgi-bin/ercri5.pl?GChoose=gregsum&GRN=EP/W016168/1&GrantRegion=7&GrantOrg=250&HTC=50101D2C&SHTC=1B84A95;)* (EP/W016168/1), a collaboration between the University of Sussex and the University of Tokyo. Two robotic manipulators were designed for use case scenarios at Sellafield and Fukushima nuclear power plants, respectively. These manipulators were designed to be integrated with a novel continuously variable transmission system (CVT). The addition of CVT increased the strength requirement of the manipulator, which required a thorough compromise between the weight and strength of components. I carried out initial CAD-based designs of the Fukushima manipulator and detailed designs of the Sellafield manipulator. The design and optimisation of structural components through FEA, bearing selection, bolt calculations, gear calculations, shaft design, keyway design, and coupling selection were among the design work that I did. I further developed extensive design drawings that considered the design for manufacture and assembly requirements. Additionally, the procurement of standard components and the commissioning of component manufacturing were part of my responsibility.
@@ -53,7 +53,7 @@ This was a part of the EPSRC project *[A Nuclear Decommissioning Manipulator wit
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/Manipulators.mp4">
 </video>
 
-## Mesh Iterative Learning Control (MILC)
+### Mesh Iterative Learning Control (MILC)
 *University of Sussex - 2023*
 
 This is a learning and control method stemming from iterative learning control based on the absolute x-y position of a surface. In this method, a collaborative manipulator robot (cobot) is programmed to repetitively traverse through virtual sub-regions of an unknown surface while trying to achieve a desired contact force. When the robot visits each sub-region during different iterations, the previous information collected at each sub-region will be used to update the reference position and impedance information of the surface for the next iteration. This method differs from the traditional iterative learning control methods as this does not require the robot to repeat the same path with the same process time. I simulated this controller in the MATLAB environment. Experiments were performed on the Sawyer robot arm to validate the method. 
@@ -65,14 +65,14 @@ This work was presented in the 2023 IEEE/RSJ International Conference on Intelli
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/MILC_demo.mp4">
 </video>
 
-## Literature Review on Wearable Devices for Load-Handling Activities
+### Literature Review on Wearable Devices for Load-Handling Activities
 *University of Moratuwa, University of Sussex - 2023*
 
 A scoping review on load-handling wearable devices (i.e., exoskeletons) focusing on the devices published from 2010 onwards. I, in collaboration with a few other researchers from the University of Moratuwa (Sri Lanka), performed this extensive review by analysing the classification of wearable devices based on application, targeted joint, mechanical design, etc. This also features a PRISMA analysis along with a bibliometric analysis of all the related literature during the duration considered. I further researched and discussed biomechanics related to load-handling activities in this article. 
 
 This review was published in IEEE Access.
 
-## Multi-Objective Optimization-based Assist-as Needed Controller for Improved Quality of Assistance in Rehabilitation Robotics
+### Multi-Objective Optimization-based Assist-as Needed Controller for Improved Quality of Assistance in Rehabilitation Robotics
 *University of Sussex - 2023*
 
 *This project was a part of the interdisciplinary project “5G enabled robotic teleoperation system for remote physical therapy: a post-COVID recovery approach in health care” by researchers from the University of Sussex; funded by Higher Education Innovation Funding - HEIF*
@@ -81,14 +81,14 @@ A reference-free control method was developed for an upper-limb rehabilitation r
 
 [Link to poster](https://www.researchgate.net/publication/374413308_Multi-Objective_Optimization-based_Assist-as-needed_Controller_for_Improved_Quality_of_Assistance_in_Rehabilitation_Robotics)
 
-## Literature Review on Circular External Fixators 
+### Literature Review on Circular External Fixators 
 *University of Moratuwa, Imperial College London, QMUL - 2022*
 
 A review on the circular external fixators, an orthopaedic device that is mainly used to stabilise complex bone structures, based on a PRISMA analysis performed on all the available research on the topic. As most reviews are focused on the clinical aspects of these devices, I focused this review on the engineering design aspects of available devices. This work also features an extensive discussion of the history and the evolution of the device, along with a bibliometric analysis.
 
 The review was published in Injury (an Elsevier journal).
 
-## Design of a Low-cost Wire Clamp for Ilizarov Ring Fixators
+### Design of a Low-cost Wire Clamp for Ilizarov Ring Fixators
 *University of Moratuwa, Imperial College London, QMUL - 2021*
 
 *A part of collaborative research by the University of Moratuwa and Imperial College London: Funded by [NIHR PrOTeCT Grant](https://www.imperial.ac.uk/trauma-bioengineering/nihr-protect-grant/)*
@@ -99,7 +99,7 @@ This was presented as a poster at the Blast Injury Conference 2021. Furthermore,
 
 [Link to poster](https://www.researchgate.net/publication/353046589_Design_of_a_Low-cost_Wire_Clamp_for_Ilizarov_Ring_Fixators)
 
-## TRoPHy: Transtibial Robotic Prosthesis with Hybrid Powering Mechanism
+### TRoPHy: Transtibial Robotic Prosthesis with Hybrid Powering Mechanism
 *University of Moratuwa - 2019*
 
 *This was my undergraduate final year project (group of 3)*
