@@ -108,12 +108,13 @@ Talks
    -->
 Service and leadership
 ------
+
 * **2021** Organizing a workshop for the technical officers of faculties of technology of Sri Lankan universities as the organising chairperson. This is conducted by the Department of Mechanical Engineering, University of Moratuwa and sponsored by AHEAD (Accelerating Higher Education Expansion and Development), which is a World Bank-funded Sri Lankan government operation.
 *	**2021** Creating technical videos related to the field of biomedical engineering: Introductory video for the article “[Importance of Medical Technology]( https://bit.ly/3dGIoWc)” in the Official E-Newsletter of the Institution of Engineers Sri Lanka (Issue 56 - July 2021), introductory video for the article “[iGrasp Robotic Prosthetic Hand](https://bit.ly/3lX3xQo)” in the Bolgoda Plains Research magazine published by University of Moratuwa.
 * **2018/2019** Secretary of the University of Moratuwa Mechanical Engineering Society (UMMES), University of Moratuwa, Sri Lanka.
 * **2018/2019** Student Representative of Undergraduate Batch 14 – Department of Mechanical Engineering, University of Moratuwa, Sri Lanka
 * **2018** Organizing Committee Member of CADMO 2018 – The Annual Computer-Aided Modelling 	Competition held at university level (Organized by UMMES)
-* **2018|**	Organizing Chair of MechX – The Annual Exhibition of Final Year Projects of the 	Department of Mechanical Engineering, University of Moratuwa
+* **2018**	Organizing Chair of MechX – The Annual Exhibition of Final Year Projects of the 	Department of Mechanical Engineering, University of Moratuwa
 * **2017/2018** Junior Editor of the University of Moratuwa Mechanical Engineering Society (UMMES)
 * **2016/2017** Committee member of the Astronomical Association of the University of Moratuwa
 * **2015/2016** Member of the Media Crew of the Engineering Faculty Student Union of the University of Moratuwa (graphic designing and editorial teams)
