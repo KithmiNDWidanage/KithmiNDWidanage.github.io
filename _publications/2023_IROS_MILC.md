@@ -8,7 +8,7 @@ date: 2023-10-05
 venue: '2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10341612'
-citation: 'J. Xia, K. N. D. Widanage, R. Zhang, R. Parween, H. Godaba, N. Herzig, R. Glovnea, D. Huang, Y. Li, &quot;Human-Robot Collaboration for Unknown Flexible Surface Exploration and Treatment Based on Mesh Iterative Learning Control,&quot; <i>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, Detroit, MI, USA, 2023, pp. 7923-7930.'
+citation: 'J. Xia, K. N. D. Widanage, R. Zhang, R. Parween, H. Godaba, N. Herzig, R. Glovnea, D. Huang, Y. Li, &quot;Human-Robot Collaboration for Unknown Flexible Surface Exploration and Treatment Based on Mesh Iterative Learning Control,&quot; <i>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, Detroit, MI, USA, 2023.'
 ---
 
 # Abstract

@@ -8,7 +8,7 @@ date: 2019-07-05
 venue: 'Moratuwa Engineering Research Conference'
 slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8818842'
-citation: 'A. K. P. Sathsara, K. N. D. Widanage, S. Nilakshman, R. K. P. S. Ranaweera and R. A. R. C. Gopura, &quot;A Hybrid Powering Mechanism for a Transtibial Robotic Prosthesis,&quot; <i>2019 Moratuwa Engineering Research Conference (MERCon)</i>, Moratuwa, Sri Lanka, 2019, pp. 447-453.'
+citation: 'A. K. P. Sathsara, K. N. D. Widanage, S. Nilakshman, R. K. P. S. Ranaweera and R. A. R. C. Gopura, &quot;A Hybrid Powering Mechanism for a Transtibial Robotic Prosthesis,&quot; <i>2019 Moratuwa Engineering Research Conference (MERCon)</i>, Moratuwa, Sri Lanka, 2019.'
 ---
 
 **This was awarded the &quot;Best Paper&quot; in the Mechanical Engineering Systems track.**
