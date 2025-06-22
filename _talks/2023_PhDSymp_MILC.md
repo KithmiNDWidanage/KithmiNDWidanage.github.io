@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023_PhDSymp_MILC
 venue: "2023 PhD Symposium - School of Engineering and Informatics"
-date: 2013-03-01
+date: 2023-03-01
 location: "University of Sussex, United Kingdom."
 ---
 
