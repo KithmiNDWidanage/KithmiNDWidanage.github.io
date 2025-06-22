@@ -25,7 +25,7 @@ This is a learning and control method stemming from iterative learning control b
 
 This work has been accepted by IEEE Transactions on Robotics for publication.
 
-  <video width="848" height="480" controls loop="" muted="" autoplay="">
+  <video width="568" height="320" controls loop="" muted="" autoplay="">
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/NRP-ILC_Demo.mp4">
 </video>
 
@@ -37,7 +37,7 @@ This is a learning and control method stemming from iterative learning control b
 This work was presented in the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 
-  <video width="848" height="480" controls loop="" muted="" autoplay="">
+  <video width="568" height="320" controls loop="" muted="" autoplay="">
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/MILC_demo.mp4">
 </video>
 
