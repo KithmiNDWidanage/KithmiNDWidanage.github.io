@@ -7,6 +7,21 @@ redirect_from:
   - /research
 ---
 
+# Ongoing Projects:
+
+## Human Arm Impedance Learning and Transfer during Bilateral Robotic Manipulation
+*University of Sussex*
+
+This work is focused on a teleoperated contact-rich robotic manipulation scenario at an unknown environment. In this ongoing research work, a tele-impedance framework is designed for learning and transferring the human hand’s stiffness to a teleoperated robot. For this work, I am proposing a hypothesis whereby the human hand’s stiffness in the Cartesian space when interacting with an environment depends on the contact force error and the stiffness of the environment. I am currently developing a ROS-based teleoperation interface between the Kinova Gen3 7DOF robotic manipulator and the Geomagic TouchX haptic device to test this hypothesis. I plan to develop a human impedance learning algorithm based on this hypothesis, which can be used in online impedance learning and transfer in teleoperation scenarios.
+
+## Characterisation of a mechanical Continuous Variable Transmission system (CVT) used as a collision-safe element of a manipulator joint
+*University of Sussex*
+
+As a continuation of one of the EPSRC projects (see Design of Robotic Manipulators for Nuclear Decommissioning below), we are carrying out a CVT characterisation on a test bench to evaluate the collision-safe capabilities. We carried out initial tests using a combination of an Arduino Portenta board and Maxon motor controllers as DAQs and Controllers to assess the variation in speed transmission ratio. Currently, we are updating the setup to replace Arduino Portenta with an NI DAQ system. The test-bench controllers currently incorporate the input data from motor encoders, a torque sensor, and magnetic encoders to record output shaft velocity. Output signals include motor output, brake control signals, and pneumatic pressure regulators.
+
+
+# Previous Projects:
+
 ## Force-dependent Variable Impedance Control (FVIC) 
 *University of Sussex - 2025*
 
@@ -27,6 +42,15 @@ This work has been accepted by IEEE Transactions on Robotics for publication.
 
   <video width="568" height="320" controls loop="" muted="" autoplay="">
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/NRP-ILC_Demo.mp4">
+</video>
+
+## Design of Robotic Manipulators for Nuclear Decommissioning
+*University of Sussex, University of Tokyo - 2022-2024*
+
+This was a part of the EPSRC project *[A Nuclear Decommissioning Manipulator with Novel Variable Impedance Actuator](https://ukerc.rl.ac.uk/cgi-bin/ercri5.pl?GChoose=gregsum&GRN=EP/W016168/1&GrantRegion=7&GrantOrg=250&HTC=50101D2C&SHTC=1B84A95;)* (EP/W016168/1), a collaboration between the University of Sussex and the University of Tokyo. Two robotic manipulators were designed for use case scenarios at Sellafield and Fukushima nuclear power plants, respectively. These manipulators were designed to be integrated with a novel continuously variable transmission system (CVT). The addition of CVT increased the strength requirement of the manipulator, which required a thorough compromise between the weight and strength of components. I carried out initial CAD-based designs of the Fukushima manipulator and detailed designs of the Sellafield manipulator. The design and optimisation of structural components through FEA, bearing selection, bolt calculations, gear calculations, shaft design, keyway design, and coupling selection were among the design work that I did. I further developed extensive design drawings that considered the design for manufacture and assembly requirements. Additionally, the procurement of standard components and the commissioning of component manufacturing were part of my responsibility.
+
+<video width="568" height="320" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/Manipulators.mp4">
 </video>
 
 ## Mesh Iterative Learning Control (MILC)
