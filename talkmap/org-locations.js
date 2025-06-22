@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Safe Robot-Environment Interactions in Contact-rich Tasks<br />University of Sussex, UK",
+    50.85916323,
+    -0.084666328
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Human-in-the-loop Robotic Exploration of Unknown Environments in Contact-rich Tasks<br />University of Sussex, UK",
+    50.85916323,
+    -0.084666328
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Development of Bionic Limbs: Transtibial Robotic Prosthsis with a Hybrid Powering Mechanism<br />University of Moratuwa, Sri Lanka",
+    6.791163502,
+    79.900496398
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Robotics Technology<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
+    8.48670000,
+    80.16610000
   ]
 ];
