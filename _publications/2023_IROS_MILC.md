@@ -6,7 +6,7 @@ permalink: /publication/2023_IROS_MILC
 excerpt: 'This work explains a Cartesian position-based iterative learning control method that can be used for learning an unknown environment during human-guided surface exploration.'
 date: 2023-10-05
 venue: '2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-slidesurl: ''
+# slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10341612'
 citation: 'J. Xia, K. N. D. Widanage, R. Zhang, R. Parween, H. Godaba, N. Herzig, R. Glovnea, D. Huang, Y. Li, &quot;Human-Robot Collaboration for Unknown Flexible Surface Exploration and Treatment Based on Mesh Iterative Learning Control,&quot; <i>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, Detroit, MI, USA, 2023.'
 ---

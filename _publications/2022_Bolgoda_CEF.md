@@ -6,7 +6,7 @@ permalink: /publication/2022_Bolgoda_CEF
 excerpt: 'A research feature on a novel clamp-based circular external fixator.'
 date: 2022-09-01
 venue: 'Bolgoda Plains'
-slidesurl: ''
+# slidesurl: ''
 paperurl: 'https://dl.lib.uom.lk/items/bf102c89-b3ce-400e-bfee-76d29bea26a7'
 citation: 'K.N.D. Widanage, M. De Silva, P. Ranaweera, T. Lalitharatne, P. Dharmaratne, A. Bull, and R.A.R.C. Gopura, &quot;Will the New Circular External Fixator Ease the Surgeon&#39;s Burden?,&quot; <i>Bolgoda Plains</i>, vol. 02, no. 01, pp. 24-27, 2022.'
 ---

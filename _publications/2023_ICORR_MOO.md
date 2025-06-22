@@ -6,7 +6,7 @@ permalink: /publication/2023_ICORR_MOO
 excerpt: 'This work is focused on an optimization-based controller for robotic rehabilitation. A constraint-based optimization method is used to constraint the motion range and speed of a wrist jointd during rehabilitation, while suppressing tremours.'
 date: 2023-09-28
 venue: '2023 International Conference on Rehabilitation Robotics (ICORR)'
-slidesurl: ''
+# slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10304734'
 citation: 'K. N. D. Widanage, Z. Sheng, H. L. Chen and Y. Li, &quot;Multi-Objective Optimization-Based Assist-as-Needed Controller for Improved Quality of Assistance in Rehabilitation Robotics,&quot; <i>2023 International Conference on Rehabilitation Robotics (ICORR)</i>, Singapore, 2023.'
 ---
