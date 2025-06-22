@@ -14,7 +14,8 @@ In this work, I developed a position-based variable impedance controller that up
 
 This work has been submitted to IEEE Control System Letters (Special section on: Safety, Robustness, and Effectiveness in Human-Machine Teaming) and is currently under review.
 
-![alt text](https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg "FVIC Simulations")
+<img src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg" alt="FVIC Simulations" width="50%"/>
+<!-- ![FVIC Simulations](https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg "FVIC Simulations") -->
 
 
 ## Non-repetitive-path Iterative Learning Control (NRP-ILC)
@@ -24,7 +25,7 @@ This is a learning and control method stemming from iterative learning control b
 
 This work has been accepted by IEEE Transactions on Robotics for publication.
 
-  <video width="320" height="240" controls loop="" muted="" autoplay="">
+  <video width="848" height="480" controls loop="" muted="" autoplay="">
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/NRP-ILC_Demo.mp4">
 </video>
 
@@ -36,7 +37,7 @@ This is a learning and control method stemming from iterative learning control b
 This work was presented in the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 
-  <video width="320" height="240" controls loop="" muted="" autoplay="">
+  <video width="848" height="480" controls loop="" muted="" autoplay="">
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/MILC_demo.mp4">
 </video>
 
