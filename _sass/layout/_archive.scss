@@ -42,10 +42,15 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: small;
 
   a + a {
     opacity: 0.5;
   }
+}
+
+.archive__item-body{
+  color: #000;
 }
 
 /* remove border*/
@@ -54,17 +59,13 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
-    font-size: small;
   }
-  .archive__item-body{
-    color: #000;
-    font-size: small;
-  }
+  
 }
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: x-small; //$type-size-6;
 
   & + p {
     text-indent: 0;
