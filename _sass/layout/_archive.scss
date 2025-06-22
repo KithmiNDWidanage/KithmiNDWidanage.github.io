@@ -42,15 +42,11 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  font-size: large;
+  font-size: larger;
 
   a + a {
     opacity: 0.5;
   }
-}
-
-.archive__item-body{
-  font-size: medium;
 }
 
 /* remove border*/
@@ -170,7 +166,7 @@
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 1.25rem;
+  font-size: 1rem;//1.25rem;
 
   @include breakpoint($small) {
     margin-bottom: 0;
