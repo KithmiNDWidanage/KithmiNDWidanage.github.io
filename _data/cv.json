@@ -37,7 +37,7 @@
       "area": "Ph.D in Engineering (Topic: Robot-environment Interactions)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2025 August (expected)",
+      "endDate": "2025 September (expected)",
       "gpa": null,
       "courses": []
     },
@@ -57,10 +57,17 @@
   "references": [],
   "publications": [
     {
-      "name": "Non-repetitive-path Iterative Learning and Control for Human-guided Robotic Operations on Unknown Surfaces",
-      "publisher": "IEEE Transactions in Robotics",
-      "releaseDate": "(accepted)",
+      "name": "Force-Dependent Variable Impedance Controller for Contact-Rich Tasks Under Reference Trajectory Uncertainty",
+      "publisher": "IEEE Control System Letters",
+      "releaseDate": "(Accepted)",
       "website": "",
+      "summary": "This paper proposes a novel contact-force-based variable impedance controller that can compromise between safety and accuracy according to the level of reference trajectory certainty in force-tracking tasks on unknown surfaces."
+    },
+    {
+      "name": "Nonrepetitive-path Iterative Learning and Control for Human-guided Robotic Operations on Unknown Surfaces",
+      "publisher": "IEEE Transactions in Robotics",
+      "releaseDate": "2025-07-11",
+      "website": "https://ieeexplore.ieee.org/document/11078145",
       "summary": "This paper provides a novel iterative learning and control algorithm for contact-rich tasks that does not require the repetition of exploration regions to learn environmental impedance and perform force control normal to the surface."
     },
     {
