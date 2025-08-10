@@ -27,7 +27,7 @@ As a continuation of one of the EPSRC projects (see Design of Robotic Manipulato
 
 In this work, I developed a position-based variable impedance controller that updates the impedance parameters (stiffness and damping) of a robot based on contact force. When learning unknown environments through contact-rich manipulation, unsafe levels of contact forces is a common problem. The current approaches for this include variable impedance methods with virtual energy tanks to ensure stability. However such methods compromise the desired contact dynamics. In this novel VIC method, the stiffness and damping are updated as functions of contact force while maintaining stability. The simulations in MATLAB environment and experiments performed with Kinova Gen3 robot integrated with two external 6-axis force/torque sensors using the Kinova Kortex API based on C++ show that this method is successful in maintaining safe interactions in unknown environments and ensuring correct position tracking in known environments. 
 
-This work has been submitted to IEEE Control System Letters (Special section on: Safety, Robustness, and Effectiveness in Human-Machine Teaming) and is currently under review.
+This work has been accepted for publication by IEEE Control System Letters (Special section on: Safety, Robustness, and Effectiveness in Human-Machine Teaming).
 
 <img src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg" alt="FVIC Simulations" width="50%"/>
 <!-- ![FVIC Simulations](https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg "FVIC Simulations") -->
@@ -38,7 +38,7 @@ This work has been submitted to IEEE Control System Letters (Special section on:
 
 This is a learning and control method stemming from iterative learning control based on the absolute x-y position of a surface. This is an extension of my previous work on MILC. In this work, a collaborative manipulator robot (cobot) is programmed to traverse repetitively through virtual sub-regions of an unknown surface while trying to achieve a desired contact force amidst occasional interruption from the human operator. When the robot visits each sub-region during different iterations, the previous information collected at each sub-region will be used to update the reference position and impedance information of the surface for the next iteration. In the previous work (MILC), the robot needed to visit all the sub-regions during each iteration to ensure proper learning and control. However, in this NRP-ILC, the robot can use any random path while arbitrarily missing some sub-regions yet still achieving the required control performance. Through this work, I further established the NRP-ILC method as a framework which can be used for achieving multiple control objectives such as force tracking, orientation adaptation, and impedance learning. I validated this framework via simulations on MATLAB. I also tested it on a Kinova Gen3 robot integrated with two external 6-axis force/torque sensors using the Kinova Kortex API based on C++. This work has been accepted for publication by IEEE Transactions on Robotics.
 
-This work has been accepted by IEEE Transactions on Robotics for publication.
+This work has been published in IEEE Transactions on Robotics.
 
   <video width="568" height="320" controls loop="" muted="" autoplay="">
   <source src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/videos/NRP-ILC_Demo.mp4">
