@@ -27,7 +27,7 @@ As a continuation of one of the EPSRC projects (see Design of Robotic Manipulato
 
 In this work, I developed a position-based variable impedance controller that updates the impedance parameters (stiffness and damping) of a robot based on contact force. When learning unknown environments through contact-rich manipulation, unsafe levels of contact forces is a common problem. The current approaches for this include variable impedance methods with virtual energy tanks to ensure stability. However such methods compromise the desired contact dynamics. In this novel VIC method, the stiffness and damping are updated as functions of contact force while maintaining stability. The simulations in MATLAB environment and experiments performed with Kinova Gen3 robot integrated with two external 6-axis force/torque sensors using the Kinova Kortex API based on C++ show that this method is successful in maintaining safe interactions in unknown environments and ensuring correct position tracking in known environments. 
 
-[This work has been accepted for publication by IEEE Control System Letters (Special section on: Safety, Robustness, and Effectiveness in Human-Machine Teaming)](/publication/2025_LCSS_FVIC).
+[This work has been published in IEEE Control System Letters (Special section on: Safety, Robustness, and Effectiveness in Human-Machine Teaming)](/publication/2025_LCSS_FVIC).
 
 <img src="https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg" alt="FVIC Simulations" width="50%"/>
 <!-- ![FVIC Simulations](https://github.com/KithmiNDWidanage/KithmiNDWidanage.github.io/raw/refs/heads/master/images/FVIC_simulations.jpg "FVIC Simulations") -->
