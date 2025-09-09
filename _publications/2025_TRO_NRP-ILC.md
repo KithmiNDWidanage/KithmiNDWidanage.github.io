@@ -9,7 +9,7 @@ venue: 'IEEE Transactions on Robotics'
 # slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/document/11078145'
 # bibtexurl: ''
-citation: 'K. N. D. Widanage, J. Xia, R. Parween, H. Godaba, N. Herzig, R. Glovnea, D. Huang, Y. Li. &quot;K. N. D. Widanage, J. Xia, R. Parween, H. Godaba, N. Herzig, R. Glovnea, D. Huang, Y. Li, ‘Non-repetitive-path Iterative Learning and Control for Human-guided Robotic Operations on Unknown Surfaces,&quot; <i>IEEE Transactions on Robotics</i>, 2025.'
+citation: 'K. N. D. Widanage, J. Xia, R. Parween, H. Godaba, N. Herzig, R. Glovnea, D. Huang, Y. Li. &quot;K. N. D. Widanage, J. Xia, R. Parween, H. Godaba, N. Herzig, R. Glovnea, D. Huang, Y. Li, ‘Non-repetitive-path Iterative Learning and Control for Human-guided Robotic Operations on Unknown Surfaces,&quot; <i>IEEE Transactions on Robotics</i>, vol. 41, pp. 4922-4940, 2025.'
 ---
 
 ### Abstract
