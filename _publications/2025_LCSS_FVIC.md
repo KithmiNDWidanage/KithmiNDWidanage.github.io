@@ -9,7 +9,7 @@ venue: 'IEEE Control Systems Letters'
 # slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/document/11121674'
 # bibtexurl: ''
-citation: 'K. N. D. Widanage, R. Parween, H. Godaba, N. Herzig, R. Glovnea, Y. Li. &quot;K. N. D. Widanage, R. Parween, H. Godaba, N. Herzig, R. Glovnea, Y. Li, ‘Force-Dependent Variable Impedance Controller for Contact-Rich Tasks Under Reference Trajectory Uncertainty,&quot; <i>IEEE Control Systems Letters</i>, 2025.'
+citation: 'K. N. D. Widanage, R. Parween, H. Godaba, N. Herzig, R. Glovnea, Y. Li. &quot;K. N. D. Widanage, R. Parween, H. Godaba, N. Herzig, R. Glovnea, Y. Li, ‘Force-Dependent Variable Impedance Controller for Contact-Rich Tasks Under Reference Trajectory Uncertainty,&quot; <i>IEEE Control Systems Letters</i>, vol. 9, pp. 2279-2284, 2025.'
 ---
 
 ### Abstract
