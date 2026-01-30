@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Engineering, University of Sussex (UK), 2026 January (expected)
+* Ph.D in Engineering, University of Sussex (UK), 2026 January (Submitted)
 * B.Sc. Engineering (Hons) in Mechanical Engineering, University of Morautwa (Sri Lanka), 2018
 
 Work experience
