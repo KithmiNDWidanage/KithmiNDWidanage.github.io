@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I'm a late-stage doctoral researcher from the University of Sussex, United Kingdom, who is developing control algorithms for robot-environment interactions. My PhD research is mainly focused on robotic exploration of unknown environments via force-based manipulator control. However, my research interests span across different topics such as robot learning, robot-environment interactions, human-robot interactions, assistive robotics, biomedical equipment design, and bio-inspired robotics.
+Hello there! I'm a late-stage doctoral researcher (thesis submitted, awaiting viva) at the University of Sussex in the United Kingdom, focusing on developing control algorithms for robot-environment interactions. My PhD research is mainly focused on robotic exploration of unknown environments via force-based manipulator control. However, my research interests span across different topics such as robot learning, robot-environment interactions, human-robot interactions, assistive robotics, biomedical equipment design, and bio-inspired robotics.
 
 Prior to starting my PhD, I was a research scholar at the University of Moratuwa, Sri Lanka, working with the NIHR Global Health Research Group on Post-Conflict Trauma ([PrOTeCT grant](https://www.imperial.ac.uk/trauma-bioengineering/nihr-protect-grant/)), where I developed a novel clamp for a circular external fixator, an orthopaedic device used to stabilize complex bone fractures. 
 
