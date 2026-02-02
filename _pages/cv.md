@@ -25,10 +25,6 @@ Work experience
   * University of Sussex, United Kingdom
   * Work Summary: Developing a controller for a hand rehabilitation robot as part of the Sussex Higher Education and Innovation Fund (HEIF) project.
   * Supervisor: Dr. Yanan Li
-
-* **Summer 2021 - Fall 2022: External Project Supervisor (volunteer)**
-  * Department of Mechanical Engineering, University of Moratuwa, Sri Lanka
-  * Work Summary: Co-supervising a final-year design/research project of Mechanical Engineering undergraduate students at the University of Moratuwa for developing an active back-support occupational exoskeleton.
     
 * **Summer 2021 - Spring 2022: Lecturer (full-time)**
   * Department of Mechanical Engineering, University of Moratuwa, Sri Lanka
