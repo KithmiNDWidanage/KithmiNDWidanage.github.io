@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "avatar.jpg"
   name             : "Kithmi N. D. Widanage"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "A Robotics doctoral researcher at the University of Sussex, UK, currently working on robot-environment interactions."
   location         : "London, UK"
   employer         : "University of Sussex, UK"
-  uri              : # URL
+  uri              : "https://profiles.sussex.ac.uk/p561049-kithmi-dickwella-widanage"
   email            : "k.dickwella-widanage@sussex.ac.uk" 
 
   # Academic websites
