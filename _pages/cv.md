@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Engineering, University of Sussex (UK), 2026 January (Viva passed with minor corrections)
+* Ph.D in Engineering, University of Sussex (UK), 2026 January (Viva passed with minor corrections; final thesis submitted)
 * B.Sc. Engineering (Hons) in Mechanical Engineering, University of Morautwa (Sri Lanka), 2018
 
 Work experience
 ------
-* **Fall 2022 - Spring 2026: Doctoral Tutor (part-time)**
+* **Fall 2022 - Summer 2026: Doctoral Tutor (part-time)**
   * University of Sussex, United Kingdom
   * Modules: Advanced Topics in Control of Electromechanical Systems (Masters), Control Engineering (Masters and UG),  Design for Manufacture (UG), and Principles and Applications of Strength of Materials (UG)
   * Duties: Workshops, tutorials, labs, and coursework marking
